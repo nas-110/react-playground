@@ -1,0 +1,19 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Playground for node and react based items",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "webpack",
+    "test": "jest"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "author": "Nagarajan Sivaraman",
+  "license": "Apache-2.0"
+}
