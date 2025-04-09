@@ -1,0 +1,7 @@
+projects:
+  nas_vcs_1:
+    description: Testing VCS Project
+    tags:
+      - VCS
+      - project
+    lastUpdated: 1744172217947
