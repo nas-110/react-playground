@@ -4,7 +4,8 @@ metadata:
   name: nas_vcs_api
   namespace: nas_vcs_1
   version: '1.0'
-  tags: []
+  tags: 
+    - nas_vcs
   type: REST
 spec:
   api-spec:
