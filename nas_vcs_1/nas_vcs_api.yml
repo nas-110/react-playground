@@ -10,4 +10,4 @@ metadata:
 spec:
   api-spec:
     $path: nas_vcs_api-spec.yml
-  policy-sequence: []
+  policy-sequence: [ ]
